@@ -5,4 +5,10 @@
 ### Taimbién cosas que consideremos importantes para el uso correcto del repositorio
 
 
-'''Prueba''' 
+# Imagen
+
+![Hamster feliz](https://i.pinimg.com/736x/63/2b/e3/632be3c0f01975db091a8e194852d41d.jpg)
+
+# 2º Imagen 
+
+![Perro Piruleta](imagenes/Perro-piruleta.jpg)
