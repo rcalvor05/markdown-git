@@ -12,3 +12,9 @@
 # 2º Imagen 
 
 ![Perro Piruleta](imagenes/Perro-piruleta.jpg)
+
+
+
+## Enlace a otro markdown
+[Ver el otro documento](marckdown2.md)
+
